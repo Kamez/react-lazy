@@ -1,2 +1,10 @@
-# react-lazy
-use when you want to load component and show some thing (Loading.....)
+##Steps of running this project
+
+from the command prompt clone the project
+
+* $git clone https://github.com/techsithgit/react-saga-example.git
+* $cd react-saga-example
+* $npm install
+* $npm start
+
+[Watch the Tutorial]().
